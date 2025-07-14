@@ -39,7 +39,7 @@ Make sure you have the following installed:
 ## 📂 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/bizconnect.git
+git clone https://github.com/laveenakach/bizconnect-website.git
 cd bizconnect
 cd business-backend
 npm install
